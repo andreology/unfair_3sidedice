@@ -1,0 +1,2 @@
+# unfair_3sidedice
+Modeled the roll of a 3-sided die using python, with non-uniform probabilities. The die has three sides [1,2,3] with probabilities: 123 [ p1,p2 ,p3 ] [0.3, 0.6, 0.1]. The experiment simulates the roll of the die for N=10,000 times, and the outcome of the N rolls is plotted as a stem plot. The stem plot verifies that the three sides of the die follow the required probabilities. The following code will simulate a single roll of the three-sided die. The variable “d” represents the number after the roll.
